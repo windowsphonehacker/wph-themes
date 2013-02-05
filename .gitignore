@@ -1,0 +1,6 @@
+# Don't need to upload the XAPs here
+liveTileAgent/Bin
+liveTileAgent/obj
+
+wphThemes/bin/
+wphThemes/obj/

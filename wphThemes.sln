@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wphThemes", "wphThemes\wphThemes.csproj", "{FBBEF899-801E-4EDD-A8FC-FFA7F41BAD4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "liveTileAgent", "liveTileAgent\liveTileAgent.csproj", "{C74E228F-5357-4691-B7FA-A85FFEB1C98C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBBEF899-801E-4EDD-A8FC-FFA7F41BAD4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBBEF899-801E-4EDD-A8FC-FFA7F41BAD4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBBEF899-801E-4EDD-A8FC-FFA7F41BAD4D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FBBEF899-801E-4EDD-A8FC-FFA7F41BAD4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBBEF899-801E-4EDD-A8FC-FFA7F41BAD4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBBEF899-801E-4EDD-A8FC-FFA7F41BAD4D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{C74E228F-5357-4691-B7FA-A85FFEB1C98C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C74E228F-5357-4691-B7FA-A85FFEB1C98C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C74E228F-5357-4691-B7FA-A85FFEB1C98C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C74E228F-5357-4691-B7FA-A85FFEB1C98C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
